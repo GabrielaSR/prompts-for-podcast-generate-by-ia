@@ -1,12 +1,7 @@
 <p align="center">
-<div align="center">
-<audio src="https://1drv.ms/v/c/ff3e9400a9df40b5/EdrWVAYnTNBPvFt5TRWVtk4BzB-qsxxu9FmVSpWiPzekcg?e=XZkUCM" controls title="Podcast Editado">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</audio>
-</div>
+
+[<img src="./assets/cover.png" width="300" />](https://1drv.ms/v/c/ff3e9400a9df40b5/EdrWVAYnTNBPvFt5TRWVtk4BzB-qsxxu9FmVSpWiPzekcg?e=XZkUCM)
+
 </p>
 
 
