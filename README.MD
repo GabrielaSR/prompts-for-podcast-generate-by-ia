@@ -1,7 +1,4 @@
-[<p align="center">
-<img src="./assets/cover.png" width="300"/>
-</p>
-](https://1drv.ms/v/c/ff3e9400a9df40b5/EdrWVAYnTNBPvFt5TRWVtk4BzB-qsxxu9FmVSpWiPzekcg?e=XZkUCM)
+[<p align="center"><img src="./assets/cover.png" width="300"/></p>](https://1drv.ms/v/c/ff3e9400a9df40b5/EdrWVAYnTNBPvFt5TRWVtk4BzB-qsxxu9FmVSpWiPzekcg?e=XZkUCM)
 ℹ️ **NOTE:** Click no link da imgem para abrir o Podcast
 
 <div align="center">
