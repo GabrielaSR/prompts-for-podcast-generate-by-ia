@@ -1,7 +1,10 @@
 
 <p align="center">
-[<img src="./assets/cover.png" width="300"/>](https://www.notion.so/PAS-Podcast-AI-Studio-17ad41156f77809e833cf8a1902a685c?pvs=4)
+<a href="https://www.notion.so/PAS-Podcast-AI-Studio-17ad41156f77809e833cf8a1902a685c?pvs=4">
+    <img src="./assets/cover.png" width="300"/>
+</a>
 </p>
+
 <p align="center">
 ℹ️ **NOTE:** Click no link da imgem para abrir o Podcast
 </p>
