@@ -1,6 +1,6 @@
 
 <p align="center">
-[<img src="./assets/cover.png" width="300"/>](https://1drv.ms/v/c/ff3e9400a9df40b5/EdrWVAYnTNBPvFt5TRWVtk4BzB-qsxxu9FmVSpWiPzekcg?e=XZkUCM)
+[<img src="./assets/cover.png" width="300"/>](https://www.notion.so/PAS-Podcast-AI-Studio-17ad41156f77809e833cf8a1902a685c?pvs=4)
 </p>
 <p align="center">
 ℹ️ **NOTE:** Click no link da imgem para abrir o Podcast
