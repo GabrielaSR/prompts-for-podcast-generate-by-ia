@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://www.notion.so/PAS-Podcast-AI-Studio-17ad41156f77809e833cf8a1902a685c?pvs=4">
+<a href="https://photos.onedrive.com/share/FF3E9400A9DF40B5!s0654d6da4c274fd0bc5b794d1595b64e?cid=FF3E9400A9DF40B5&resId=FF3E9400A9DF40B5!s0654d6da4c274fd0bc5b794d1595b64e&ithint=video&e=tRXsf3&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy9mZjNlOTQwMGE5ZGY0MGI1L0VkcldWQVluVE5CUHZGdDVUUldWdGs0QmZzRDhEUXU5UVZvT2hzbkxxVjhlaWc_ZT10UlhzZjM">
     <img src="./assets/cover.png" width="300"/>
 </a>
 </p>
